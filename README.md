@@ -5,8 +5,7 @@ the case if you awnt to run jenkins in your linux, mac or windows environment-th
 
 ## Let's Start
 ---
-First pull jenkins image from docker registery using the following command
-docker pull jenkins/jenkins:lts
+See step-by-step on Jenkinsfile above for installation
 
 
 
