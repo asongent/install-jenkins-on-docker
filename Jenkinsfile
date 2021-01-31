@@ -11,7 +11,7 @@ docker run -d --name (YourPreferedName) -p3000:8080 jenkins/jenkins:lts
 
 #Explanation of the above command.
 # run, starts a new container for you
-# -d, runs ther container in a detached mode
+# -d, runs the container in a detached mode
 # --name enables you to specify the name (example, Jenkins-Serever) of the container/jenkins server that you want to create. Docker 
 # -p is publish or port 
 # 3000 is my prefered port number. You can choose a port number of your choice say, 7000, 9000 5000, 6000 or any if not in used already. 
