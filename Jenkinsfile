@@ -33,6 +33,7 @@ docker exec jenkins cat /var/jenkins_home/secrets/initialAdminPassword
 
                   Asong Gentle
                 Jr DevOps Engineer
+
                   [Good Luck]
 
 
