@@ -31,6 +31,9 @@ docker exec jenkins cat /var/jenkins_home/secrets/initialAdminPassword
 
 #Start bulding your projects and pipelines. 
 
+                  Asong Gentle
+                Jr DevOps Engineer
+                  [Good Luck]
 
 
 
