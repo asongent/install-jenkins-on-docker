@@ -11,8 +11,8 @@ docker run -d --name (YourPreferedName) -p3000:8080 jenkins/jenkins:lts
 
 #Explanation of the above command.
 # run, starts a new container for you
-# -d, runs the container in a detached mode
-# --name enables you to specify the name (example, Jenkins-Serever) of the container/jenkins server that you want to create. Docker 
+# -d, runs the container in detached mode
+# --name enables you to specify the name (example, Jenkins-Serever) of the container/jenkins server that you want to create. 
 # -p is publish or port 
 # 3000 is my prefered port number. You can choose a port number of your choice say, 7000, 9000 5000, 6000 or any if not in used already. 
 # 8080 is jenkins default port number. 
@@ -22,7 +22,7 @@ docker run -d --name (YourPreferedName) -p3000:8080 jenkins/jenkins:lts
 #Fourth, Start your jenkins server on any browser. Type:
 localhost:3000 #This will open jenkins server for you. 
 
-#You shold to be asked to enter Administrator password. TO tet Administrator password, type
+#You should be asked to enter Administrator password. TO get Administrator password, type
 
 docker exec jenkins cat /var/jenkins_home/secrets/initialAdminPassword
 
@@ -31,10 +31,7 @@ docker exec jenkins cat /var/jenkins_home/secrets/initialAdminPassword
 
 #Start bulding your projects and pipelines. 
 
-                  Asong Gentle
-                Jr DevOps Engineer
-
-                  [Good Luck]
+               
 
 
 
