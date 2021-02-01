@@ -1,4 +1,4 @@
-# First pull jenkins image from docker registry buy running the following command
+# First pull jenkins image from docker registry by running the following command
 docker pull jenkins/jenkins:lts
 
 #Second, after pulling jenkins images, type the following command to verify that the image was successfully pulled
