@@ -9,7 +9,7 @@ the case if you awnt to run jenkins in your linux, mac or windows environment-th
 See step-by-step on Jenkinsfile above for installation
 
 ---
-                  Asong Gentle
-                Jr DevOps Engineer
+                                           Asong Gentle
+                                        Jr DevOps Engineer
                 
-                  [Good Luck]
+                                            [Good Luck]
